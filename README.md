@@ -6,6 +6,14 @@ To generate a random password, using numeric, special, upper & lowercase charact
 ## Built With
 * JavaScript
 
+## Issues
+* I deleted original file as I was having trouble deploying my site. Unfortunately all original commits were also deleted. 
+
+* In retrospect I did not have to delete te file, I simply had to make adjustments to my HTML document.
+
+* I have learnt from my mistakes, for the future.
+
+
 ## Website
 https://anikayoka.github.io/password-generator/
 
