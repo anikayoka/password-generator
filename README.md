@@ -7,7 +7,7 @@ To generate a random password, using numeric, special, upper & lowercase charact
 * JavaScript
 
 ## Issues
-* I deleted original file as I was having trouble deploying my site. Unfortunately all original commits were also deleted. 
+* I deleted original repository as I was having trouble deploying my site (and thought it was my only recourse). Unfortunately all original commits were also deleted. 
 
 * In retrospect I did not have to delete te file, I simply had to make adjustments to my HTML document.
 

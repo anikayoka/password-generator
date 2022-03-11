@@ -28,6 +28,7 @@ function generatePassword() {
     var acceptUppercase = confirm("Click OK to confirm including uppercase characters");
     var acceptNumeric = confirm("Click OK to confirm including numeric characters");
     
+    // if incorrect criteria selection
     if (!acceptSpecial && !acceptLowercase && !acceptUppercase && !acceptNumeric) {
       return ("Password must contain at least one selection to generate a strong password");
     }
@@ -56,6 +57,7 @@ function generatePassword() {
     console.log(password);
     return password;
 
+    //if incorrect password length
   } else {
     return "Invalid length, password must be at least 8 but no more than 128 characters in length."
   }
